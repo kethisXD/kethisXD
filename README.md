@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kethisXD
-- 🌱 I’m currently learning html, css and JavaScript
 - 📫 How to reach me vk.com/77serata77 
 
 <!---
